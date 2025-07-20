@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Lin Hsuan-Yu</h1>
+<h1 align="center">Hi there 👋, I'm Ethan Lin</h1>
 <h3 align="center">🎓 NTNU TAHRD | Data • AI • Web</h3>
 
 ---
