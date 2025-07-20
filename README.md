@@ -8,7 +8,7 @@
 - 🏫 4th-year student at **National Taiwan Normal University (NTNU)**
 - 💡 Passionate about **AI**, **full-stack web development**, and **data analysis**  
 - 💻 Proficient in **Python, SQL, JavaScript, HTML, CSS, React, Flask**, and more  
-- 📊 Built projects involving AI-powered smart home applications, restaurant reservation systems, and travel helper.
+- 📊 Built projects involving AI-powered smart home applications, restaurant reservation systems, and travel helper
 - 🌍 Always curious about exploring new cultures and building real-world tech solutions  
 
 ---
