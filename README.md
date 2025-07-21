@@ -8,7 +8,7 @@
 - 🏫 4th-year student at **National Taiwan Normal University (NTNU)**
 - 🤖 Passionate about **AI applications**, especially **LLM integration**, **RAG**, and **NLP**
 - 💻 Hands-on experience with **Python, SQL, JavaScript, React, Flask**, and cloud-based AI tools
-- 📊 Built projects involving AI smart home applications, restaurant reservation systems, and travel helper
+- 📊 Built projects involving AI smart home appliances, restaurant reservation systems, and travel helper
 - 🌍 Always curious about exploring new cultures and building real-world tech solutions  
 
 ---
