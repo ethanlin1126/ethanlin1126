@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🏫 4th-year student at **National Taiwan Normal University (NTNU)**
-- 🤖 Passionate about **AI applications**, especially **LLM integration**, **RAG (Retrieval-Augmented Generation)**, and knowledge-based systems 
+- 🤖 Passionate about **AI applications**, especially **LLM integration**, **RAG**, and **NLP**
 - 💻 Hands-on experience with **Python, SQL, JavaScript, React, Flask**, and cloud-based AI tools (e.g. Hugging Face APIs)
 - 📊 Built projects involving AI smart home applications, restaurant reservation systems, and travel helper
 - 🌍 Always curious about exploring new cultures and building real-world tech solutions  
