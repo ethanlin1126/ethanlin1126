@@ -7,6 +7,7 @@
 
 - 🏫 4th-year student at **National Taiwan Normal University (NTNU)**
 - 🤖 Passionate about **AI applications**, especially **LLM integration**, **RAG**, and **NLP**
+- 📈 Skilled in data analysis, visualization, and predictive modeling using tools like Pandas, Matplotlib, Seaborn, and Scikit-learn 
 - 💻 Hands-on experience with **Python, SQL, JavaScript, React, Flask**, and cloud-based AI tools
 - 📊 Built projects involving AI smart home appliances, AI chatbot, restaurant reservation systems, and travel helper
 - 🌍 Always curious about exploring new cultures and building real-world tech solutions  
