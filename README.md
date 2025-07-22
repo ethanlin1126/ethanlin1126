@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🏫 4th-year student at **National Taiwan Normal University (NTNU)**
 - 🤖 Passionate about **AI applications**, especially **LLM integration**, **RAG**, and **NLP**
