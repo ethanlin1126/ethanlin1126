@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🤖 Backend engineer with hands-on experience building **RAG** and **AI Agent** systems
 - 🛠️ Developed **LLM tooling** to support AI-powered products in production
