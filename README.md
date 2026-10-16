@@ -1,16 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Ethan Lin</h1>
-<h3 align="center">🎓 NTNU TAHRD | AI • Data • Web</h3>
 
 ---
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🏫 4th-year student at **National Taiwan Normal University (NTNU)**
-- 🤖 Passionate about **AI applications**, especially **LLM integration**, **RAG**, and **NLP**
-- 📈 Skilled in data analysis, visualization, and predictive modeling using tools like Pandas, Matplotlib, Seaborn, and Scikit-learn 
-- 💻 Hands-on experience with **Python, SQL, JavaScript, React, Flask**, and cloud-based AI tools
-- 📊 Built projects involving AI smart home appliances, AI chatbot, restaurant reservation systems, and travel helper
-- 🌍 Always curious about exploring new cultures and building real-world tech solutions  
+- 🤖 Backend engineer with hands-on experience building **RAG** and **AI Agent** systems
+- 🛠️ Developed **LLM tooling** to support AI-powered products in production
+- 💻 Comfortable working with **Python, Django, PostgreSQL, Docker**, and testing APIs with **Postman**
+- 🌏 Always curious about exploring new cultures and building real-world tech solutions
 
 ---
 
@@ -18,28 +15,14 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Basic"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="postman"/>
 </p>
 
 ---
 
- <!---## 📌 Featured Projects
-
-### 🧳 [Travel Helper](https://web-main-172e.onrender.com/)
-A **React-based travel planning assistant** that helps users search for attractions, view details, and organize itineraries with integrated map support.
-
-### 🍽️ [Restaurant Reservation System](https://github.com/your-github-username/restaurant-reservation)
-A web-based reservation system built with **Flask** and **MySQL**, allowing users to create, view, edit, and manage restaurant bookings. 
-
---- -->
-
 ## 📫 Contact
 
-- ✉️ Email: 41171207h@gapps.ntnu.edu.tw
- <!--- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile) -->
+- ✉️ Email: ethanlin20031222@gmail.com
